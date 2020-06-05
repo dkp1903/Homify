@@ -1,0 +1,10 @@
+#homeTitle {
+	padding-top: 3em;
+	font-family: 'Pacifico';
+	text-align: center;
+	font-size: 4em;
+}	
+
+#buttonCity:hover {
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(0, 0, 0, 0.08);
+} 

@@ -1,0 +1,11 @@
+.notAvailableContainer {
+	height: 90vh;
+	font-family: "Montserrat", "sans-serif";
+	font-weight: bolder;
+	display: flex;
+	font-weight: bold;
+	font-size: 3vh;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
